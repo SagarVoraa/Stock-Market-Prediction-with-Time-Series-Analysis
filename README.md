@@ -1,2 +1,3 @@
 # Stock-Market-Prediction-with-Time-Series-Analysis
 Stock Market Prediction with Time Series Analysis
+Implemented extensive ETL for modeling data, forecasting tomorrow's opening price relative to yesterday's close. Utilized yfinance library for historical market data, focusing on S&P 500 for predictions. Rigorous data cleaning, manipulation, and null value handling ensured a stable dataset for modeling. Employed Random Forest to identify key features/KPIs for stock prediction. Additionally, ran a basic ARIMA model for enhanced time series predictions. GitHub repository includes detailed code and documentation.
